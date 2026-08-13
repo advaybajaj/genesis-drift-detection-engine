@@ -10,6 +10,12 @@ undergone a statistically significant poleward shift over recent decades.
 
 Read the full paper in [`paper/`](paper/).
 
+<p align="center">
+  <img src="figures/figure6_coastline_proximity_heatmaps/figure6A_heatmap_1980_1999.png" width="48%" alt="TC track density near midlatitude coastlines, 1980-1999" />
+  <img src="figures/figure6_coastline_proximity_heatmaps/figure6B_heatmap_2000_2024.png" width="48%" alt="TC track density near midlatitude coastlines, 2000-2024" />
+</p>
+<p align="center"><em>Figure 6 — tropical cyclone track density near midlatitude coastlines, 1980–1999 (left) vs. 2000–2024 (right). Storms are increasingly concentrated closer to midlatitude coastlines in the later period.</em></p>
+
 ## Repo structure
 
 - **`paper/`** — the final write-up (`.docx` and `.pdf`).
