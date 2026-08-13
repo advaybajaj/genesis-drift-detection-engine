@@ -11,10 +11,9 @@ undergone a statistically significant poleward shift over recent decades.
 Read the full paper in [`paper/`](paper/).
 
 <p align="center">
-  <img src="figures/figure6_coastline_proximity_heatmaps/figure6A_heatmap_1980_1999.png" width="48%" alt="TC track density near midlatitude coastlines, 1980-1999" />
-  <img src="figures/figure6_coastline_proximity_heatmaps/figure6B_heatmap_2000_2024.png" width="48%" alt="TC track density near midlatitude coastlines, 2000-2024" />
+  <img src="figures/figure1_poleward_migration_trends/figure1D_combined_genesis_vs_max_intensity.png" width="70%" alt="Storm genesis vs max intensity latitude trends, 1980-2024" />
 </p>
-<p align="center"><em>Figure 6 — tropical cyclone track density near midlatitude coastlines, 1980–1999 (left) vs. 2000–2024 (right). Storms are increasingly concentrated closer to midlatitude coastlines in the later period.</em></p>
+<p align="center"><em>Figure 1D — mean genesis latitude and mean max-intensity latitude by year, 1980–2024. Both trend lines shift poleward over time, the core result behind the paper's main hypothesis.</em></p>
 
 ## Repo structure
 
